@@ -1,1 +1,1 @@
-# Brain-Tumor-Detection-in-Magnetic-Resonance-Images-using-Deep-Learning-Architectures-
+# Brain Tumor Detection in Magnetic Resonance Images using Deep Learning Architectures-
